@@ -1,3 +1,8 @@
-# 1472_Git_assignment
+# Git_assignment_For_Group_10
 
-Group - 10 YS
+Group members are:
+	Durgesh Gupta
+	Kuldeepak Gupta
+	Meenakshi Goyal
+	Vishal Gupta
+	Yash Gupta
